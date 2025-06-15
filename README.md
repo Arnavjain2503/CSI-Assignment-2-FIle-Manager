@@ -14,8 +14,11 @@ No third-party packages required!
 ## 📁 Project Structure
 
 file-management-tool/
+
 ├── server.js # Main application file
+
 └── files/ # Directory for storing files (auto-created)
+
 ---
 
 ## 🚀 Getting Started
