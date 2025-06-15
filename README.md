@@ -24,11 +24,11 @@ file-management-tool/
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository or Set Up Manually
-
+```
 git clone https://github.com/your-username/file-management-tool.git
 cd file-management-tool
 Or manually create the project folder and add server.js.
-
+```
 2. Run the Server
 bash
 Copy
