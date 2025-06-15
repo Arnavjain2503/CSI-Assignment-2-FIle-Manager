@@ -29,11 +29,10 @@ git clone https://github.com/your-username/file-management-tool.git
 cd file-management-tool
 Or manually create the project folder and add server.js.
 ```
-2. Run the Server
-bash
-Copy
-Edit
+### 2. Run the Server
+```
 node server.js
+```
 The server will start at:
 http://localhost:3000
 📌 API Endpoints
