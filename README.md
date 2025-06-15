@@ -13,20 +13,6 @@ No third-party packages required!
 
 ## 📁 Project Structure
 
-# 🗃️ Node.js File Management Tool
-
-A simple file management tool built using **Node.js core modules** (`fs`, `path`, `http`, `url`). This tool allows you to:
-
-- ✅ Create files
-- 📖 Read file contents
-- 🗑️ Delete files
-
-No third-party packages required!
-
----
-
-## 📁 Project Structure
-
 file-management-tool/
 ├── server.js # Main application file
 └── files/ # Directory for storing files (auto-created)
