@@ -1,5 +1,5 @@
-CSI-Assignment-2-File-Manager
-🗃️ Node.js File Management Tool
+### CSI-Assignment-2-File-Manager
+### 🗃️ Node.js File Management Tool
 
 A simple file management tool built using Node.js core modules (`fs`, `path`, `http`, `url`). This tool allows you to:
 - ✅ Create files  
