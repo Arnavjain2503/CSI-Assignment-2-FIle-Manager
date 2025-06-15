@@ -16,11 +16,6 @@ No third-party packages required!
 file-management-tool/
 ├── server.js # Main application file
 └── files/ # Directory for storing files (auto-created)
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Getting Started
